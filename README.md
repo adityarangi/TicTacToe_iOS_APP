@@ -1,1 +1,1 @@
-# tic_tac_toe iOS app
+# Tic_Tac_Toe iOS app
